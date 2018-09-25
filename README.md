@@ -1,5 +1,5 @@
 # TinkeringSpace
-draft documents for future makerspace
+Draft documents for future makerspace.
 
 # Mission
 We are creating a community workspace open to all and equipped with state-of-the-art tools and materials to support creativity and collaboration.
